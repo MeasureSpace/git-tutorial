@@ -52,7 +52,7 @@ $git push origin feature
 
 ## YouTube tutorial
 
-The YouTube video for this tutorial is as follow. Click the following image, it will take you to YouTube for more detailed explanation.
+Click the following image, and it will take you to YouTube for more detailed tutorial.
 
 [!]()
 
