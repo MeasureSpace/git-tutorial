@@ -52,9 +52,9 @@ $git push origin feature
 
 ## YouTube tutorial
 
-Click the following image, and it will take you to YouTube for more detailed tutorial.
+Click the following image, and it will take you to YouTube for a more detailed tutorial.
 
-[!]()
+[![](http://img.youtube.com/vi/gEJu9CXm6Xc/0.jpg)](http://www.youtube.com/watch?v=gEJu9CXm6Xc "")
 
 References:
 
